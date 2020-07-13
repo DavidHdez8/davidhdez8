@@ -4,7 +4,7 @@
 Soy Mexicano🇲🇽, tengo 21 años y actualmente estudio Ingeniería de Software apasionado totalmente por la tecnología. Me encanta el desarrollo de software con un fuerte amor por la arquitectura frontend y te lo demuestro por [acá](https://github.com/DavidHdez8?tab=repositories). 🙌
 
 Tengo conocimientos en: 
-+ [HTML y CSS]()  🖌 🖍
++ [HTML y CSS](https://github.com/DavidHdez8/profesional-blog)  🖌 🖍
 + [JavaScript](https://github.com/DavidHdez8/simon-says)   🧠 
 	+	[React.js]() 🧟‍♂️
 + [Java](https://github.com/DavidHdez8/student_book) ☕

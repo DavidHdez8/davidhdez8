@@ -11,10 +11,12 @@ Tengo conocimientos en:
 	+ [Android con Java](https://github.com/DavidHdez8/temperature-converter) 🤳
 + [Linux]()🐧
 + [MySQL]() 💻
-##¡Contactame! 
+
+Contactame!
+------------- 
 - [Facebook](https://www.facebook.com/angeldavid.vargashernandez) 💛
 - [Twitter](https://twitter.com/DavidHdez_8) 💙
 - [Instagram](https://www.instagram.com/davidhdez_8/) 🧡
 - davidvh46@gmail.com 💜
 
-###¡Un gusto poder trabajar contigo!
+_¡Un gusto poder trabajar contigo!_

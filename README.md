@@ -6,6 +6,7 @@ Soy Mexicano🇲🇽, tengo 21 años y actualmente estudio Ingeniería de Softwa
 Tengo conocimientos en: 
 + [HTML y CSS](https://github.com/DavidHdez8/profesional-blog)  🖌 🖍
 + [JavaScript](https://github.com/DavidHdez8/simon-says)   🧠 
+	+	[SPA](https://github.com/DavidHdez8/100tifi.co)✨
 	+	[React.js]() 🧟‍♂️
 + [Java](https://github.com/DavidHdez8/student_book) ☕
 	+ [Android con Java](https://github.com/DavidHdez8/temperature-converter) 🤳

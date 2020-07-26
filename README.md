@@ -1,7 +1,7 @@
 # David Vargas Hernández - @DavidHdez8
 
 Hello!✌
-I am Mexicano🇲🇽, i have 21 years old and actually I study Software Engineering totally passionate about technology. I love software development with a strong love for frontend architecture and I show it to you by [here](https://github.com/DavidHdez8?tab=repositories). 🙌
+I am Mexican🇲🇽, i have 21 years old and actually I study Software Engineering totally passionate about technology. I love software development with a strong love for frontend architecture and I show it to you by [here](https://github.com/DavidHdez8?tab=repositories). 🙌
 
 I have knowledge in: 
 + [HTML - CSS](https://github.com/DavidHdez8/profesional-blog)  🖌 🖍

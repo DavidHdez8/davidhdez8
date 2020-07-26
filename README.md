@@ -1,10 +1,10 @@
 # David Vargas Hernández - @DavidHdez8
 
-¡Hola!✌
-Soy Mexicano🇲🇽, tengo 21 años y actualmente estudio Ingeniería de Software apasionado totalmente por la tecnología. Me encanta el desarrollo de software con un fuerte amor por la arquitectura frontend y te lo demuestro por [acá](https://github.com/DavidHdez8?tab=repositories). 🙌
+Hello!✌
+I am Mexicano🇲🇽, i have 21 years old and actually I study Software Engineering totally passionate about technology. I love software development with a strong love for frontend architecture and I show it to you by [here](https://github.com/DavidHdez8?tab=repositories). 🙌
 
-Tengo conocimientos en: 
-+ [HTML y CSS](https://github.com/DavidHdez8/profesional-blog)  🖌 🖍
+I have knowledge in: 
++ [HTML - CSS](https://github.com/DavidHdez8/profesional-blog)  🖌 🖍
 + [JavaScript](https://github.com/DavidHdez8/simon-says)   🧠 
 	+	[SPA](https://github.com/DavidHdez8/100tifi.co)✨
 	+	[React.js]() 🧟‍♂️
@@ -13,11 +13,11 @@ Tengo conocimientos en:
 + [Linux]()🐧
 + [MySQL]() 💻
 
-Contactame!
+Contact me!
 ------------- 
 - [Facebook](https://www.facebook.com/angeldavid.vargashernandez) 💛
 - [Twitter](https://twitter.com/DavidHdez_8) 💙
 - [Instagram](https://www.instagram.com/davidhdez_8/) 🧡
 - davidvh46@gmail.com 💜
 
-_¡Un gusto poder trabajar contigo!_
+_A pleasure to work with you!_

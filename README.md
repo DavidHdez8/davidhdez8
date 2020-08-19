@@ -9,15 +9,15 @@ I have knowledge in:
 	+	[SPA](https://github.com/DavidHdez8/100tifi.co)✨
 	+	[React.js]() 🧟‍♂️
 + [Java](https://github.com/DavidHdez8/student_book) ☕
-	+ [Android con Java](https://github.com/DavidHdez8/temperature-converter) 🤳
+	+ [Android with Java](https://github.com/DavidHdez8/temperature-converter) 🤳
 + [Linux]()🐧
 + [MySQL]() 💻
 
 Contact me!
 ------------- 
 - [Facebook](https://www.facebook.com/angeldavid.vargashernandez) 💛
-- [Twitter](https://twitter.com/DavidHdez_8) 💙
-- [Instagram](https://www.instagram.com/davidhdez_8/) 🧡
+- [Twitter](https://twitter.com/ItsDavidHdez) 💙
+- [Instagram](https://www.instagram.com/itsdavidhdez/) 🧡
 - davidvh46@gmail.com 💜
 
 _A pleasure to work with you!_

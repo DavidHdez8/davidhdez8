@@ -7,7 +7,7 @@ I have knowledge in:
 + [HTML - CSS](https://github.com/DavidHdez8/profesional-blog)  🖌 🖍
 + [JavaScript](https://github.com/DavidHdez8/simon-says)   🧠 
 	+	[SPA](https://github.com/DavidHdez8/100tifi.co)✨
-	+	[React.js]() 🧟‍♂️
+	+	[React.js](https://github.com/ItsDavidHdez/badges) 🧟‍♂️
 + [Java](https://github.com/DavidHdez8/student_book) ☕
 	+ [Android with Java](https://github.com/DavidHdez8/temperature-converter) 🤳
 + [Linux]()🐧

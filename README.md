@@ -8,10 +8,14 @@ I have knowledge in:
 + [JavaScript](https://github.com/DavidHdez8/simon-says)   🧠 
 	+	[SPA](https://github.com/DavidHdez8/100tifi.co)✨
 	+	[React.js](https://github.com/ItsDavidHdez/badges) 🧟‍♂️
+	+	[React Native](https://github.com/ItsDavidHdez/item.app.maestra)
 + [Java](https://github.com/DavidHdez8/student_book) ☕
 	+ [Android with Java](https://github.com/DavidHdez8/temperature-converter) 🤳
++ [PHP](https://github.com/ItsDavidHdez/crud-task)
 + [Linux]()🐧
-+ [MySQL]() 💻
++ [MySQL](https://github.com/ItsDavidHdez/crud-task) 💻
+
++ [Node.js + MongoDB + Javascript vanilla + deploy](https://github.com/ItsDavidHdez/book-app)
 
 Contact me!
 ------------- 
